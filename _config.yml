@@ -1,0 +1,22 @@
+title: Micheal Abaho
+name: "Micheal Abaho"
+url: https://michealabaho.net/
+logo: img/micheal.jpeg
+site.locale: "en-US"
+github:
+  is_user_page: true
+  is_project_page: false
+twitter_username: mile265
+og_image: img/micheal.jpeg
+theme: jekyll-theme-minimal
+social:
+  type: Person
+  links:
+    - "https://www.linkedin.com/in/micheal-abaho-56a6a250/"
+    - "https://scholar.google.com/citations?user=uLDa-6EAAAAJ&hl=en"
+# twitter:
+#   username               : mile265
+# author:
+#   googlescholar    : "https://scholar.google.com/citations?user=uLDa-6EAAAAJ&hl=en"
+#   linkedin         : "https://www.linkedin.com/in/micheal-abaho-56a6a250/"
+#   twitter          : "mile265"
