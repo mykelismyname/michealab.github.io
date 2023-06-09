@@ -1,4 +1,4 @@
-I am currently working as Research Scientist on a health data Science project called DynAIRx at the university of liverpool. Previously worked as an NLP Research Scientist at [NEC Laboratories Europe (Heidelberg)](https://www.neclab.eu/). 
+I am currently working as Research Scientist on a health data Science project called [DynAIRx](https://www.liverpool.ac.uk/dynairx/our-research/) at the university of liverpool. Previously worked as an NLP Research Scientist at [NEC Laboratories Europe (Heidelberg)](https://www.neclab.eu/). 
 
 Besides Machine learning, Data Science and Artificial Intelligence, I have in the past had experiences in software, networks and systems administration. I recently completed my PhD in Machine Learning and Natural Language Processing (NLP) specializing in Biomedical Information Extraction at the University of Liverpool working with [Danushka Bollegala](https://danushka.net/), [Paula Williamson](https://www.liverpool.ac.uk/population-health/staff/paula-williamson/) and [Susanna Dodd](https://www.liverpool.ac.uk/population-health/staff/susanna-dodd/).
 
