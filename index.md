@@ -1,9 +1,23 @@
-I am currently working as Research Scientist on health data Science projects
-[DynAIRx](https://www.liverpool.ac.uk/dynairx/our-research/) and [MRIC](https://mric.uk/) at [CHIL Lab](https://www.liverpool.ac.uk/civic-health-innovation-labs/)
-in liverpool. I previously worked as an NLP Research Scientist at
-[NEC Laboratories Europe (Heidelberg)](https://www.neclab.eu/) on Open Information extraction in Healthcare. 
+I am Research Scientist at the [CHIL Lab](https://www.liverpool.ac.uk/civic-health-innovation-labs/)
+which brings together experts from the University of Liverpool, NHS (Merseycare), Local government, Charities and other industry
+partners to tackle local and global health challenges using civic data and technology.
 
-Besides Machine learning, Data Science and Artificial Intelligence, I have in the past had experiences in software, networks and systems administration. I recently completed my PhD in Machine Learning and Natural Language Processing (NLP) specializing in Biomedical Information Extraction at the University of Liverpool working with [Danushka Bollegala](https://danushka.net/), [Paula Williamson](https://www.liverpool.ac.uk/population-health/staff/paula-williamson/) and [Susanna Dodd](https://www.liverpool.ac.uk/population-health/staff/susanna-dodd/).
+My role contributes data science, AI (NLP) and Research expertise on health data Science projects, from ideation, conception
+and feasibility assessments to proof of concept, design and implementation. 
+Previously, I worked as an NLP Research Scientist at [NEC Laboratories Europe (Heidelberg)](https://www.neclab.eu/), where I 
+worked on Open Information Extraction in the healthcare space.
+
+Besides Machine learning, Data Science and Artificial Intelligence, I have in the past had experiences in software, mobile app development, networks and systems
+administration and Open web activism through Mozilla Foundation.
+
+## Main projects
+- [MRIC](https://mric.uk/) 
+  - Developing digital resources (data and language models) to accelerate practical utility of categorical diagnosis and their codes in patient care delivery and data mining in EHRs.
+- [DynAIRx](https://www.liverpool.ac.uk/dynairx/our-research/) 
+  - Developing language models to determine which combination of drugs are most harmful to patients with multiple long term conditions
+- [Outcome Tracking] 
+  - To come
+- .....
 
 ## Research Interests
 
@@ -66,12 +80,10 @@ Reviewer - Association for Computational Linguistics (ACL) Rolling Review (2021 
 Freelance Data Scientist
 
 ## Contacts
-micheal.abaho@neclab.eu
-
-m.abaho@liverpool.ac.uk
+micheal.abaho@liverpool.ac.uk
 
 michealabaho265@gmail.com
 
 +44 7491574501
 
-Full CV: available [here](https://drive.google.com/file/d/142Jbo9E9ee8EMS84Yd-z6g9EPb5CtbhQ/view?usp=share_link)
+Full CV: available [here](https://drive.google.com/drive/u/0/folders/1uXzHerC2aWDfXetXaMHdXBxozuH1Vuoh)
