@@ -7,6 +7,9 @@ and feasibility assessments to proof of concept, design and implementation.
 Previously, I worked as an NLP Research Scientist at [NEC Laboratories Europe (Heidelberg)](https://www.neclab.eu/), where I 
 worked on Open Information Extraction in the healthcare space.
 
+I am also a member of the the ECR supported by the AIM-RSF[https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility]
+ under the Alan Turing Institute. 
+
 Besides Machine learning, Data Science and Artificial Intelligence, I have in the past had experiences in software, mobile app development, networks and systems
 administration and Open web activism through Mozilla Foundation.
 
