@@ -2,7 +2,7 @@ I am Research Scientist at the [CHIL Lab](https://www.liverpool.ac.uk/civic-heal
 which brings together experts from the University of Liverpool, NHS (Merseycare), Local government, Charities and other industry
 partners to tackle local and global health challenges using civic data and technology.
 
-My role contributes data science, AI (NLP) and Research expertise on health data Science projects, from ideation, conception
+My role provides leadership and hands-on expertise in data science and AI (NLP) on health data Science projects guiding them from ideation, conception
 and feasibility assessments to proof of concept, design and implementation. 
 Previously, I worked as an NLP Research Scientist at [NEC Laboratories Europe (Heidelberg)](https://www.neclab.eu/), where I 
 worked on Open Information Extraction in the healthcare space.
