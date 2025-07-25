@@ -85,8 +85,8 @@ Freelance Data Scientist
 ## Contacts
 micheal.abaho@liverpool.ac.uk
 
-michealabaho265@gmail.com
+michealabaho265@gmail.com.
 
 +44 7491574501.
 
-Full CV: available [here](https://drive.google.com/drive/u/0/folders/1uXzHerC2aWDfXetXaMHdXBxozuH1Vuoh)
+Full CV: available [here](https://drive.google.com/drive/folders/1uXzHerC2aWDfXetXaMHdXBxozuH1Vuoh)
