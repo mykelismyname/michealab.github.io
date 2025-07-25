@@ -1,5 +1,5 @@
-I am Research Scientist at the [CHIL Lab](https://www.liverpool.ac.uk/civic-health-innovation-labs/)
-which brings together experts from the University of Liverpool, NHS (Merseycare), Local government, Charities and other industry
+I am a Research Scientist at the [CHIL Lab](https://www.liverpool.ac.uk/civic-health-innovation-labs/)
+which brings together experts from NHS (Merseycare), University of Liverpool, Local government, Charities and other industry
 partners to tackle local and global health challenges using civic data and technology.
 
 My role provides leadership and hands-on expertise in data science and AI (NLP) on health data Science projects guiding them from ideation, conception
